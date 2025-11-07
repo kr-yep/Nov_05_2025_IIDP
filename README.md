@@ -17,3 +17,10 @@
 - git push -u origin main
 - check status of the new github repository
 - 
+# git branch
+- git checkout -b branch_name
+- git switch branch_name (or name)
+- git status #check current branch
+- git add .
+- git commit -m 'msg'
+- git puch --set-updatte origin branch_name
